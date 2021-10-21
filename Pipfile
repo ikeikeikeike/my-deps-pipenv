@@ -8,5 +8,6 @@ python_version = '3.9'
 
 [packages]
 PyYaml = '>=5.4.0'
+botocore = ">1.21"
 
 [dev-packages]
