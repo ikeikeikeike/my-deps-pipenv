@@ -18,11 +18,11 @@
     "default": {
         "botocore": {
             "hashes": [
-                "sha256:b78184ff1b1512c8ac00ad2ec1cea513ead930ace95749ed39f9d059aafe0645",
-                "sha256:c9894037047a5e118be3e3ae6586ba32de7bb01257c46661874427720d52cde0"
+                "sha256:842dc2b887ab9ce5e937bc5954116736a1f3d3b7f1948b0027a671509e0d81ca",
+                "sha256:89c48ac82cd3d814dd459428144a124e42acca80431c77813b7ac29f8fac3456"
             ],
             "index": "pypi",
-            "version": "==1.22.0"
+            "version": "==1.22.8"
         },
         "jmespath": {
             "hashes": [
